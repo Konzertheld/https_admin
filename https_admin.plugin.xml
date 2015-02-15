@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="plugin">
+	<name>HTTPS Admin</name>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+	<author url="http://christian-gredig.de/">Christian Gredig</author>
+	<version>1.0</version>
+	<url>http://habariproject.org/</url>
+	<description><![CDATA[Force admin interface to use HTTPS connection.]]></description>
+	<copyright>2015</copyright>
+	<help><value><![CDATA[
+	
+	]]></value></help>
+	<guid>FC9DCBF5-758A-4F42-9B68-2FA008D31357</guid>
+</pluggable>
